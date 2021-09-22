@@ -29,6 +29,10 @@ db.on('error', (error) => {
 	console.log('🧚🏽‍♂️ -----------------------------')
 })
 
+// import models
+import Bounty from './bounty'
+
 export default {
 	// models
+	Bounty
 }
