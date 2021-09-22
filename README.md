@@ -1,1 +1,4 @@
-# bounty-hunters-api
+# Bounty Hunters API
+
+API using Express and Mongoose
+
