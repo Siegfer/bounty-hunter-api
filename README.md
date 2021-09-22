@@ -1,1 +1,1 @@
-# bounty-hunter-api
+# bounty-hunters-api
